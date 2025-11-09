@@ -1,21 +1,127 @@
-Nationality,2018,2019,2020,2021,2022,2023,2024
-Eritrea,0,0,511,2875,2020,2666,3480
-Afghanistan,3,69,494,1437,9088,5511,6065
-Sudan,0,0,969,1064,1762,1658,2748
-Somalia,0,0,14,318,86,248,697
-Iran,238,1213,2373,8319,5841,3582,4214
-Vietnam,4,3,118,1403,505,1306,3657
-Yemen,0,0,252,135,160,91,1300
-Ethiopia,0,5,108,544,530,249,508
-Iraq,33,471,1648,6117,4574,2536,2142
-Syria,1,14,776,2451,3006,2275,4693
-Turkey,0,2,10,69,1127,3058,1944
-Kuwait,0,2,79,537,374,309,462
-Libya,0,0,28,160,133,223,382
-Palestine,0,0,62,95,64,43,72
-Egypt,0,1,53,366,1233,810,378
-India,0,0,64,67,748,1214,293
-South Sudan,0,0,34,62,129,256,328
-Georgia,0,0,3,0,313,572,316
-Other,20,54,382,1385,13638,1721,1563
-Total,299,1843,8466,28526,45774,29437,36816
+Nationality,Year,Arrivals
+Eritrea,2018,0
+Afghanistan,2018,3
+Sudan,2018,0
+Somalia,2018,0
+Iran,2018,238
+Vietnam,2018,4
+Yemen,2018,0
+Ethiopia,2018,0
+Iraq,2018,33
+Syria,2018,1
+Turkey,2018,0
+Kuwait,2018,0
+Libya,2018,0
+State of Palestine,2018,0
+Egypt,2018,0
+India,2018,0
+South Sudan,2018,0
+Georgia,2018,0
+Eritrea,2019,0
+Afghanistan,2019,69
+Sudan,2019,0
+Somalia,2019,0
+Iran,2019,1213
+Vietnam,2019,3
+Yemen,2019,0
+Ethiopia,2019,5
+Iraq,2019,471
+Syria,2019,14
+Turkey,2019,2
+Kuwait,2019,2
+Libya,2019,0
+State of Palestine,2019,0
+Egypt,2019,1
+India,2019,0
+South Sudan,2019,0
+Georgia,2019,0
+Eritrea,2020,511
+Afghanistan,2020,494
+Sudan,2020,969
+Somalia,2020,14
+Iran,2020,2373
+Vietnam,2020,118
+Yemen,2020,252
+Ethiopia,2020,108
+Iraq,2020,1648
+Syria,2020,776
+Turkey,2020,10
+Kuwait,2020,79
+Libya,2020,28
+State of Palestine,2020,62
+Egypt,2020,53
+India,2020,64
+South Sudan,2020,34
+Georgia,2020,3
+Eritrea,2021,2875
+Afghanistan,2021,1437
+Sudan,2021,1064
+Somalia,2021,318
+Iran,2021,8319
+Vietnam,2021,1403
+Yemen,2021,135
+Ethiopia,2021,544
+Iraq,2021,6117
+Syria,2021,2451
+Turkey,2021,69
+Kuwait,2021,537
+Libya,2021,160
+State of Palestine,2021,95
+Egypt,2021,366
+India,2021,67
+South Sudan,2021,62
+Georgia,2021,0
+Eritrea,2022,2020
+Afghanistan,2022,9088
+Sudan,2022,1762
+Somalia,2022,86
+Iran,2022,5841
+Vietnam,2022,505
+Yemen,2022,160
+Ethiopia,2022,530
+Iraq,2022,4574
+Syria,2022,3006
+Turkey,2022,1127
+Kuwait,2022,374
+Libya,2022,133
+State of Palestine,2022,64
+Egypt,2022,1233
+India,2022,748
+South Sudan,2022,129
+Georgia,2022,313
+Eritrea,2023,2666
+Afghanistan,2023,5511
+Sudan,2023,1658
+Somalia,2023,248
+Iran,2023,3582
+Vietnam,2023,1306
+Yemen,2023,91
+Ethiopia,2023,249
+Iraq,2023,2536
+Syria,2023,2275
+Turkey,2023,3058
+Kuwait,2023,309
+Libya,2023,223
+State of Palestine,2023,43
+Egypt,2023,810
+India,2023,1214
+South Sudan,2023,256
+Georgia,2023,572
+Eritrea,2024,3480
+Afghanistan,2024,6065
+Sudan,2024,2748
+Somalia,2024,697
+Iran,2024,4214
+Vietnam,2024,3657
+Yemen,2024,1300
+Ethiopia,2024,508
+Iraq,2024,2142
+Syria,2024,4693
+Turkey,2024,1944
+Kuwait,2024,462
+Libya,2024,382
+State of Palestine,2024,72
+Egypt,2024,378
+India,2024,293
+South Sudan,2024,328
+Georgia,2024,316
