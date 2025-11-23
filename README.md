@@ -97,7 +97,7 @@ These sources were chosen for accuracy, transparency, and regular publication.
 
 Key high-level observations:
 
-- Net migration fluctuated significantly between 2010 and 2024, with notable peaks during the post-pandemic recovery period.
+- Net migration fluctuated significantly between 2012 and 2024, with notable peaks during the post-pandemic recovery period.
 - **Non-EU migration increased sharply** after COVID, becoming the primary driver of net migration.
 - The **top contributing countries for immigration** varied over time, with a mixture of Commonwealth and international students’ countries.
 - **Small boat arrivals rose steadily** from 2018 before showing signs of stabilisation in the latest years.
