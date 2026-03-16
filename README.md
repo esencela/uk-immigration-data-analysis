@@ -116,9 +116,8 @@ Key high-level observations:
 
 ---
 
-## 🚀 Possible Next Steps / Extensions
+## 🚀 Future Improvements
 
-Here are some strong, realistic extensions that would elevate the project:
 
 ### **1. Time-Series Forecasting**
 Predict future immigration, asylum claims, or small boat arrivals using:
